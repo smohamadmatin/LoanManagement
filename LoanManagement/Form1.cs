@@ -12,6 +12,7 @@ namespace LoanManagement
         {
             InitializeComponent();
         }
+       
         /*public void loadform(object Form)
         {
 
@@ -27,8 +28,8 @@ namespace LoanManagement
         {
             userControl11.Show();
             userControl11.BringToFront();
-            UserControl2 userControl2 = new UserControl2();
-            userControl2.Hide();
+           // UserControl2 userControl2 = new UserControl2();
+            //userControl2.Hide();
             //loadform(new FORMDASHBOARD());
 
         }
@@ -96,8 +97,61 @@ namespace LoanManagement
         bool hello;
         private void Form1_Load(object sender, EventArgs e)
         {
-            userControl11.Hide();
+            userControl22.Hide();
+            userControl11.Show();
+            userControl11.BringToFront();
+            userControl31.Hide();
+            userControl31.Hide();
             //hello = FORMDASHBOARD.isopen
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+            
+            userControl22.Show();
+            userControl11.Hide();
+           userControl22.BringToFront();
+        }
+
+        private void userControl21_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+            userControl31.Show();
+            userControl11.Hide();
+            userControl31.BringToFront();
+
+        }
+
+        private void userControl11_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void userControl11_Load_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+            userControl41.Show();
+            userControl41.BringToFront();
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+            userControl51.Show();
+            userControl51.BringToFront();
+        }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+            userControl61.Show();
+            userControl61.BringToFront();
         }
     }
 }
