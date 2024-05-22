@@ -40,12 +40,16 @@
     <Reference Include="DevExpress.Data.v23.2, Version=23.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
     <Reference Include="DevExpress.Drawing.v23.2, Version=23.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
     <Reference Include="DevExpress.Printing.v23.2.Core, Version=23.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Sparkline.v23.2.Core, Version=23.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
     <Reference Include="DevExpress.Utils.v23.2, Version=23.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v23.2, Version=23.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
     <Reference Include="PresentationCore" />
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
     <Reference Include="System.Runtime.Remoting" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -67,6 +71,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ToggleSwitch.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="UserControl1.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -78,6 +85,30 @@
     </Compile>
     <Compile Include="UserControl2.Designer.cs">
       <DependentUpon>UserControl2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl3.Designer.cs">
+      <DependentUpon>UserControl3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl4.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl4.Designer.cs">
+      <DependentUpon>UserControl4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl5.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl5.Designer.cs">
+      <DependentUpon>UserControl5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl6.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl6.Designer.cs">
+      <DependentUpon>UserControl6.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -92,8 +123,26 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="ToggleSwitch.resx">
+      <DependentUpon>ToggleSwitch.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="UserControl1.resx">
       <DependentUpon>UserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl2.resx">
+      <DependentUpon>UserControl2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl3.resx">
+      <DependentUpon>UserControl3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl4.resx">
+      <DependentUpon>UserControl4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl5.resx">
+      <DependentUpon>UserControl5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl6.resx">
+      <DependentUpon>UserControl6.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -209,6 +258,87 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Group 386.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\صندوق ماهانه.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\صندوق ماهانهش.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\searchbar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button sabt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\popup.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Group 342.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Group 341.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\popup1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paybutton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\popup2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\popup21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addUserbtn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\importXCLbtn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Group 265.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Group 78%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Group 265%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Group 264.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Group 395.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Group 395%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Group 396.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Group 3961.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Calendar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-call-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LIGHTMODE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DARKMODE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SUBMITTNCHANGES.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\تومانicon.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
