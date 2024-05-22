@@ -223,6 +223,16 @@ namespace LoanManagement.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Group_3421 {
+            get {
+                object obj = ResourceManager.GetObject("Group 3421", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Group_378 {
             get {
                 object obj = ResourceManager.GetObject("Group 378", resourceCulture);

@@ -118,8 +118,8 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="صندوق ماهانهش" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\صندوق ماهانهش.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Group 389" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Group 389.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Settings1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Settings1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -136,23 +136,26 @@
   <data name="Group 78(1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Group 78(1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="searchbar" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\searchbar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Home1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Home1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Group 387" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Group 387.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Contacts1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Contacts1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="LIGHTMODE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LIGHTMODE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="paybutton" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\paybutton.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Group 390" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Group 390.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Group 395" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Group 395.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Group 386" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Group 386.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Settings" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Settings.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -175,32 +178,32 @@
   <data name="Group 384" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Group 384.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="New_Window1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\New Window1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Group 396" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Group 396.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="popup" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\popup.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Group 378" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Group 378.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Add_User_Male1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Add User Male1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Group 395(1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Group 395(1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="SUBMITTNCHANGES" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\SUBMITTNCHANGES.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Initiate_Money_Transfer1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Initiate Money Transfer1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Withdrawal1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Withdrawal1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Group 264" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Group 264.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="popup1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\popup1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Request Money" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Request Money.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Group 3961" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Group 3961.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Calendar1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Calendar1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -208,11 +211,11 @@
   <data name="button sabt" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\button sabt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Group 3961" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Group 3961.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="searchbar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\searchbar.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="popup2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\popup2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="addUserbtn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\addUserbtn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="popup21" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\popup21.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -223,14 +226,11 @@
   <data name="DARKMODE" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\DARKMODE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="LIGHTMODE" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\LIGHTMODE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Group 378" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Group 378.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Group 382" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Group 382.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="صندوق ماهانه" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\صندوق ماهانه.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Group 3801" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Group 3801.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -238,17 +238,17 @@
   <data name="Delete_User_Male1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Delete User Male1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Group 389" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Group 389.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="SUBMITTNCHANGES" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\SUBMITTNCHANGES.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="New_Window1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\New Window1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Request Money" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Request Money.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Contacts" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Contacts.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Group 265" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Group 265.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Group 379" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Group 379.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Group 342" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Group 342.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -256,38 +256,41 @@
   <data name="Three People" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Three People.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="تومانicon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\تومانicon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Group 265(1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Group 265(1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="importXCLbtn" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\importXCLbtn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="addUserbtn" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\addUserbtn.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Contacts1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Contacts1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Group 390" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Group 390.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Group 265" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Group 265.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Three_People1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Three People1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Group 379" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Group 379.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="صندوق ماهانه" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\صندوق ماهانه.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="New Window" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\New Window.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Initiate_Money_Transfer1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Initiate Money Transfer1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="صندوق ماهانهش" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\صندوق ماهانهش.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Group 388" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Group 388.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Group 396" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Group 396.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Add_User_Male1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Add User Male1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Group 395(1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Group 395(1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Group 264" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Group 264.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Group 380" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Group 380.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -295,10 +298,10 @@
   <data name="Edit1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Edit1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Group 386" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Group 386.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="popup2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\popup2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="تومانicon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\تومانicon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Group 3421" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Group 3421.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

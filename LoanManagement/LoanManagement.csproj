@@ -340,5 +340,8 @@
   <ItemGroup>
     <None Include="Resources\تومانicon.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Group 3421.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
